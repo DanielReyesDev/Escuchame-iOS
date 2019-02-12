@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Hecho con ❤︎"; ObjectID = "0eX-hw-LKT"; */
+"0eX-hw-LKT.text" = "Hecho con ❤︎";
+
+/* Class = "UISegmentedControl"; 2vo-GV-P6J.segmentTitles[0] = "Categorías"; ObjectID = "2vo-GV-P6J"; */
+"2vo-GV-P6J.segmentTitles[0]" = "Categorías";
+
+/* Class = "UISegmentedControl"; 2vo-GV-P6J.segmentTitles[1] = "Mis Palabras"; ObjectID = "2vo-GV-P6J"; */
+"2vo-GV-P6J.segmentTitles[1]" = "Mis Palabras";
+
+/* Class = "UILabel"; text = "Reconocmiento de voz online"; ObjectID = "6mI-oF-guW"; */
+"6mI-oF-guW.text" = "Reconocmiento de voz online";
+
+/* Class = "UILabel"; text = "escúchame"; ObjectID = "9TW-jE-nlq"; */
+"9TW-jE-nlq.text" = "escúchame";
+
+/* Class = "UITableViewSection"; headerTitle = "Aplicación"; ObjectID = "AEX-i3-Es5"; */
+"AEX-i3-Es5.headerTitle" = "Aplicación";
+
+/* Class = "UILabel"; text = "© 2016 Escúchame Org."; ObjectID = "Bcg-VL-bME"; */
+"Bcg-VL-bME.text" = "© 2016 Escúchame Org.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dbk-F8-Are"; */
+"Dbk-F8-Are.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Soporte"; ObjectID = "OM0-tY-Ghe"; */
+"OM0-tY-Ghe.headerTitle" = "Soporte";
+
+/* Class = "UITableViewSection"; headerTitle = "Conexión"; ObjectID = "UKU-bK-SOQ"; */
+"UKU-bK-SOQ.headerTitle" = "Conexión";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VL5-VA-NdJ"; */
+"VL5-VA-NdJ.text" = "Label";
+
+/* Class = "UILabel"; text = "escuchameapp.com"; ObjectID = "a4N-eD-OKs"; */
+"a4N-eD-OKs.text" = "escuchameapp.com";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aNT-wn-bXk"; */
+"aNT-wn-bXk.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Nombre del concepto"; ObjectID = "cii-v8-jFX"; */
+"cii-v8-jFX.placeholder" = "Nombre del concepto";
+
+/* Class = "UILabel"; text = "Reportar un Problema"; ObjectID = "gah-di-M4d"; */
+"gah-di-M4d.text" = "Reportar un Problema";
+
+/* Class = "UINavigationItem"; title = "Agregar Concepto"; ObjectID = "p18-Ik-jjn"; */
+"p18-Ik-jjn.title" = "Agregar Concepto";
+
+/* Class = "UILabel"; text = "Términos de uso"; ObjectID = "rKz-MZ-kZK"; */
+"rKz-MZ-kZK.text" = "Términos de uso";
+
+/* Class = "UILabel"; text = "Versión 1.0"; ObjectID = "sNh-6w-86o"; */
+"sNh-6w-86o.text" = "Versión 1.0";
+
+/* Class = "UINavigationItem"; title = "Configuración"; ObjectID = "t3N-6L-oCl"; */
+"t3N-6L-oCl.title" = "Configuración";
+
+/* Class = "UILabel"; text = "Restablecer Imágenes"; ObjectID = "zOT-Vd-NA6"; */
+"zOT-Vd-NA6.text" = "Restablecer Imágenes";
